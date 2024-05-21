@@ -1,4 +1,4 @@
-# Desktop_app_using_yolo
+
 # YOLOv8s Desktop Application
 
 This desktop application uses YOLOv8s and Tkinter for the GUI to perform detection on images, videos, and real-time feeds. Follow the instructions below to set up and run the application.
